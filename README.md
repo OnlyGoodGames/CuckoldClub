@@ -1,0 +1,1 @@
+ **Cuckold Club** is something between a chat and a social network for cuckolds and their wives.
