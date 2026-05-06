@@ -1,4 +1,8 @@
-<div align="center">**Cuckold Club**</div>
+<div align="center">
+  
+**Cuckold Club**
+  </div>
+
 **Cuckold Club** is something between a chat and a social network for cuckolds and their wives. The basic functionality of this Windows program/application is completely free.
 
 Currently, it offers the following sections:
@@ -9,6 +13,9 @@ Currently, it offers the following sections:
 
 3. **Chats** – private chats between cuckolds, hotwives and bulls registered in our club.
 
-<div align="center">**[Download Windows version](https://github.com/OnlyGoodGames/CuckoldClub/releases/download/release/CuckoldClub.zip)**</div>
+<div align="center">
+  
+**[Download Windows version](https://github.com/OnlyGoodGames/CuckoldClub/releases/download/release/CuckoldClub.zip)**
 
-<div align="center">**[Download Android version](https://github.com/OnlyGoodGames/CuckoldClub/releases/download/release/com.gmail.onlygoodgames.cuckold_club.apk)**</div>
+**[Download Android version](https://github.com/OnlyGoodGames/CuckoldClub/releases/download/release/com.gmail.onlygoodgames.cuckold_club.apk)**
+</div>
