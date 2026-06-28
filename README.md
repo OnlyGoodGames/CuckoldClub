@@ -13,6 +13,8 @@ Currently, it offers the following sections:
 
 3. **Chats** – private chats between cuckolds, hotwives and bulls registered in our club.
 
+Of course, if you need any additional features, you can always leave a request.
+
 <div align="center">
   
 **[Download Windows version](https://github.com/OnlyGoodGames/CuckoldClub/releases/download/release/CuckoldClub.zip)**
